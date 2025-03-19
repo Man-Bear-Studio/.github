@@ -1,1 +1,3 @@
-# .github
+HELLO 👋
+
+THIS ORG IS FOR BEAR_IUM AND DAN TO MAKE GAMES!
